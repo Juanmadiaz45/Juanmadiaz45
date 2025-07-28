@@ -32,5 +32,13 @@
 
 ## 📈 GitHub Stats
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmadiaz45&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmadiaz45&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=juanmadiaz45&show_icons=true&theme=radical" alt="Juan's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmadiaz45&layout=compact&theme=radical" alt="Most Used Languages"/>
+    </td>
+  </tr>
+</table>
