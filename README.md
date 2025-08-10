@@ -4,7 +4,6 @@
 🚀 Passionate about **DevOps**, **Cloud Infrastructure**, **Software Development**, and **Automation**.  
 🔍 Constantly exploring new technologies and improving systems through efficient infrastructure and scalable software architecture.
 
----
 
 ## 🛠️ Languages & Frameworks
 *Here are the languages and frameworks I work with for building applications.*
@@ -45,7 +44,6 @@
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
