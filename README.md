@@ -43,17 +43,3 @@
   <a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
-
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=juanmadiaz45&show_icons=true&theme=radical" alt="Juan's GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmadiaz45&layout=compact&theme=radical" alt="Most Used Languages"/>
-    </td>
-  </tr>
-</table>
